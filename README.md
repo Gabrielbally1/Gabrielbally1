@@ -36,9 +36,6 @@
 
  ## Email para contato! <C/>
 <div>
-  <a href="mailto:gabrielbally9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <span style="margin-left: 10px; font-size: 16px; color: white;">
     gabrielbally9@gmail.com
   </span>
