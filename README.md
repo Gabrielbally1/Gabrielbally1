@@ -1,8 +1,16 @@
 ### Olá! Eu sou o Gabriel Bally! 👋
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/gabriel-bally-oliveira-100a78227/) <br/>
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) (https://www.instagram.com/gabrielbally1/) <br/>
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) (https://www.facebook.com/gabriel.bally.9/) <br/>
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-bally-oliveira-100a78227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gabrielbally1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/gabriel.bally.9/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <!--
