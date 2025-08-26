@@ -35,4 +35,6 @@
  Em constante evolução, apaixonado por tecnologia e sempre buscando conhecimento.
 
  ## Email para contato! <C/>
- ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Gabrielbally9@gmail.com
+  <a href="mailto:gabrielbally9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
